@@ -41,11 +41,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
-- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
-- [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
-- [Top VS Code Updates | v1.63 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=q4F9OSon2n0)
-- [ZERO Gas Purchases on OpenSea!! How to buy NFTs on Polygon](https://www.youtube.com/watch?v=peJ9zgNhyh0)
+- [【Gorjoe紅石】打LOL - 阿福出了不玩嗎?](https://www.youtube.com/watch?v=cYHIQ26abAI)
+- [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=cs7WRzUsn94)
+- [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=bm1jqRvbhfc)
+- [【Gorjoe紅石】玩乜好呀? 玩Muck好呀! &lpar;Roguelike生存遊戲&rpar; | 直播記錄](https://www.youtube.com/watch?v=0bI9-Bmmncg)
+- [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=-3asVNNR5xA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
