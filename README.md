@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and project
 - 🥅 My Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to music and play games
+- ⚡ Fun fact: I love to play games and listen music
 
 ### Connect with me:
 
