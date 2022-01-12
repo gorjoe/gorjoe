@@ -1,6 +1,6 @@
 ### Hi there, I'm gorjoe 👋 
 
-## I'm a MC Plugin Creator, Server Managementer and YouTube Creator!!
+## I'm a MC Plugin Creator, Server Manager and YouTube Creator!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and project
