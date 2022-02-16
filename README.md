@@ -35,11 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴【Gorjoe紅石】來當個駭客 &lpar;bitburner&rpar;](https://www.youtube.com/watch?v=OukWSW1Asho)
 - [【Gorjoe紅石】打LOL - 阿福出了不玩嗎?](https://www.youtube.com/watch?v=cYHIQ26abAI)
 - [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=cs7WRzUsn94)
 - [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=bm1jqRvbhfc)
 - [【Gorjoe紅石】玩乜好呀? 玩Muck好呀! &lpar;Roguelike生存遊戲&rpar; | 直播記錄](https://www.youtube.com/watch?v=0bI9-Bmmncg)
+- [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=-3asVNNR5xA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCPcHMvp2QdPgNRbQrrtC6WA/videos)
