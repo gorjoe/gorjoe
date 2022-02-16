@@ -35,7 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴【Gorjoe紅石】來當個駭客, 掛機刷錢 &lpar;bitburner&rpar;](https://www.youtube.com/watch?v=OukWSW1Asho)
+- [🔴【Gorjoe紅石】來當個駭客 &lpar;bitburner&rpar;](https://www.youtube.com/watch?v=OukWSW1Asho)
 - [【Gorjoe紅石】打LOL - 阿福出了不玩嗎?](https://www.youtube.com/watch?v=cYHIQ26abAI)
 - [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=cs7WRzUsn94)
 - [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=bm1jqRvbhfc)
