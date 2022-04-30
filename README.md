@@ -35,7 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [【Gorjoe紅石】打LOL ➤單排升分計劃](https://www.youtube.com/watch?v=od-N7Cn0MhI)
+- [【Gorjoe紅石】打LOL ➤單排上分計劃](https://www.youtube.com/watch?v=od-N7Cn0MhI)
 - [【Gorjoe紅石】打LOL - 阿福出了不玩嗎?](https://www.youtube.com/watch?v=cYHIQ26abAI)
 - [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=cs7WRzUsn94)
 - [【Gorjoe紅石】練習OSU | 直播記錄](https://www.youtube.com/watch?v=bm1jqRvbhfc)
