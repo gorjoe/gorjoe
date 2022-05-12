@@ -35,7 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴【Gorjoe紅石】打LOL ➤單排升分計劃 Day5 &lpar;Twitch同步&rpar;](https://www.youtube.com/watch?v=NKTqpc-X7oI)
+- [【Gorjoe紅石】打LOL ➤單排升分計劃 Day4 BO](https://www.youtube.com/watch?v=xsc_oP3c8mc)
 - [【Gorjoe紅石】打LOL ➤單排升分計劃 Day3](https://www.youtube.com/watch?v=UsMA-VP1Gdo)
 - [【Gorjoe紅石】打LOL ➤單排升分計劃 Day2](https://www.youtube.com/watch?v=gnANjGNoDxs)
 - [【Gorjoe紅石】打LOL ➤單排上分計劃 Day1](https://www.youtube.com/watch?v=od-N7Cn0MhI)
