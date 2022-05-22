@@ -36,10 +36,10 @@
 
 <!-- YOUTUBE:START -->
 - [【Gorjoe紅石】打LOL ➤單排升分計劃 Day6](https://www.youtube.com/watch?v=jKfqgBVqt7U)
-- [🔴【Gorjoe紅石】打LOL ➤單排升分計劃 Day8](https://www.youtube.com/watch?v=ESYS7vMFB24)
 - [【Gorjoe紅石】打LOL ➤阿福快樂打](https://www.youtube.com/watch?v=28oijKLzXtI)
 - [【Gorjoe紅石】打LOL ➤單排升分計劃 Day5](https://www.youtube.com/watch?v=NKTqpc-X7oI)
 - [【Gorjoe紅石】打LOL ➤阿福快樂打](https://www.youtube.com/watch?v=a12X6z35xpk)
+- [【Gorjoe紅石】打LOL ➤單排升分計劃 Day4 BO](https://www.youtube.com/watch?v=xsc_oP3c8mc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCPcHMvp2QdPgNRbQrrtC6WA/videos)
