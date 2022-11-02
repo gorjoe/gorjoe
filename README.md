@@ -35,11 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [《Let’s Get Wicked》2022 惡人舞動迪士尼 CC字幕 |  @香港迪士尼樂園 | Hong Kong Disneyland](https://www.youtube.com/watch?v=esMY50j8T1c)
 - [【Gorjoe紅石】深岩工程師探險【Deep Rock Galactic】](https://www.youtube.com/watch?v=fgjptrgMpRI)
 - [【Gorjoe紅石】打LOL ➤單排升分計劃 Day8](https://www.youtube.com/watch?v=ESYS7vMFB24)
 - [【Gorjoe紅石】打LOL ➤單排升分計劃 Day7](https://www.youtube.com/watch?v=E9lH-ZMN2us)
 - [【Gorjoe紅石】打LOL ➤單排升分計劃 Day6](https://www.youtube.com/watch?v=jKfqgBVqt7U)
-- [【Gorjoe紅石】打LOL ➤阿福快樂打](https://www.youtube.com/watch?v=28oijKLzXtI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCPcHMvp2QdPgNRbQrrtC6WA/videos)
