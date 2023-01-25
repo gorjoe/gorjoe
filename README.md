@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [【Gorjoe紅石】打LOL ➤阿福快樂打](https://www.youtube.com/watch?v=I-gQCD4n3Pk)
 - [Tank Yuumi.exe](https://www.youtube.com/watch?v=BW_JVB4fH_o)
 - [【Gorjoe紅石】打LOL ➤阿福快樂打](https://www.youtube.com/watch?v=GmtqGiq57qk)
 - [【Gorjoe紅石】LOL東南亞服 第一天](https://www.youtube.com/watch?v=leZpRYaBPzk)
 - [夜間城堡匯演 - 《迪士尼星夢光影之旅》 | 火車站 @香港迪士尼樂園 | Hong Kong Disneyland](https://www.youtube.com/watch?v=k0Ex0upfn4Q)
-- [《Let’s Get Wicked》2022 惡人舞動迪士尼 CC字幕 |  @HKDisneylandResort](https://www.youtube.com/watch?v=esMY50j8T1c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCPcHMvp2QdPgNRbQrrtC6WA/videos)
