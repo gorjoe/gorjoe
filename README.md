@@ -57,7 +57,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gorjoe&theme=onedark)](https://github.com/gorjoe/github-profile-trophy)
 <img alt="gorjoe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gorjoe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <br>
 <img alt="gorjoe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorjoe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
