@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [【Gorjoe紅石】繼續發展機械動力，獲得更多EMC！《空島科技大師》#3](https://www.youtube.com/watch?v=hnRdpR-MLrk)
 - [【Gorjoe紅石】繼續打造自動化產線，發掘無盡資源！《空島科技大師》#2](https://www.youtube.com/watch?v=wpC8XD3FSJU)
 - [【Gorjoe紅石】開啟空中王國，建設出機械帝國！《空島科技大師》](https://www.youtube.com/watch?v=1fiTA6P2CAg)
 - [【Gorjoe紅石】打LOL ➤單排上分計劃 Day9 &lpar;重新開始&rpar;](https://www.youtube.com/watch?v=pUBbKYo0VKY)
 - [【Gorjoe紅石】打LOL ➤阿福快樂打](https://www.youtube.com/watch?v=I-gQCD4n3Pk)
-- [Tank Yuumi.exe](https://www.youtube.com/watch?v=BW_JVB4fH_o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCPcHMvp2QdPgNRbQrrtC6WA/videos)
