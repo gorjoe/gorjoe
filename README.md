@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [【Gorjoe紅石】繼續推進主線，獲得更多EMC！《空島科技大師》#4](https://www.youtube.com/watch?v=Uh5byoby54M)
 - [如果MC的動作都有特效](https://www.youtube.com/watch?v=8zJA9h1_Ln8)
 - [Me KSP vs Starship](https://www.youtube.com/watch?v=4oJ9EeyH4wM)
 - [【Gorjoe紅石】繼續發展機械動力，獲得更多EMC！《空島科技大師》#3](https://www.youtube.com/watch?v=hnRdpR-MLrk)
 - [【Gorjoe紅石】繼續打造自動化產線，發掘無盡資源！《空島科技大師》#2](https://www.youtube.com/watch?v=wpC8XD3FSJU)
-- [【Gorjoe紅石】開啟空中王國，建設出機械帝國！《空島科技大師》](https://www.youtube.com/watch?v=1fiTA6P2CAg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCPcHMvp2QdPgNRbQrrtC6WA/videos)
