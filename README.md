@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="gorjoe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="gorjoe | Twitter" width="22px" src="https://raw.githubusercontent.com/gorjoe/gorjoe/main/img/envelope-solid.svg" />][email]
+[<img align="left" alt="gorjoe | Email" width="22px" src="https://raw.githubusercontent.com/gorjoe/gorjoe/main/img/envelope-solid.svg" />][email]
 
 <br />
 
