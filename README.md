@@ -3,11 +3,11 @@
 ## I'm a MC Plugin Creator, Server Manager and YouTube Creator!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators and project
+- 👯 I’m looking to collaborate with other creators and project
 - 🥅 My Goals: Create more Open Source projects
 - ⚡ Fun fact: I love create programs while listen music
 
-### Connect with me:
+### Contact me!
 
 [<img align="left" alt="gorjoe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="gorjoe | Email" width="22px" src="https://raw.githubusercontent.com/gorjoe/gorjoe/main/img/envelope-solid.svg" />][email]
