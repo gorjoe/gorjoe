@@ -43,7 +43,7 @@
 - [【Gorjoe紅石】打LOL ➤阿福快樂打](https://www.youtube.com/watch?v=v3aBypEVG7g)
 - [【Gorjoe紅石】打掉重做，重新規劃資源使用！《空島科技大師》#5](https://www.youtube.com/watch?v=R57sQRf9AfU)
 - [【Gorjoe紅石】繼續推進主線，獲得更多EMC！《空島科技大師》#4](https://www.youtube.com/watch?v=Uh5byoby54M)
-- [如果MC的動作都有特效](https://www.youtube.com/watch?v=8zJA9h1_Ln8)
+- [如果MC的動作都有特效](https://www.youtube.com/shorts/8zJA9h1_Ln8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCPcHMvp2QdPgNRbQrrtC6WA/videos)
