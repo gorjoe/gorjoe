@@ -49,11 +49,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCPcHMvp2QdPgNRbQrrtC6WA/videos)
 
 ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gorjoe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<img alt="gorjoe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gorjoe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<br>
-<img alt="gorjoe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorjoe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gorjoe)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gorjoe&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=gorjoe&langs_count=8&theme=dark)
 [youtube]: https://bit.ly/gorjoe
 [email]: mailto:joeminecraft1234funs35@gmail.com
