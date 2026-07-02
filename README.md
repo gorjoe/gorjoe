@@ -51,5 +51,6 @@
 ---
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gorjoe)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gorjoe&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=gorjoe&langs_count=8&theme=dark)
+<br>
 [youtube]: https://bit.ly/gorjoe
 [email]: mailto:joeminecraft1234funs35@gmail.com
