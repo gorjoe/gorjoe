@@ -9,8 +9,8 @@
 
 ### Contact me!
 
-[<img align="left" alt="gorjoe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="gorjoe | Email" width="22px" src="https://raw.githubusercontent.com/gorjoe/gorjoe/main/img/envelope-solid.svg" />][email]
+[<img align="left" alt="gorjoe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://bit.ly/gorjoe)
+[<img align="left" alt="gorjoe | Email" width="22px" src="https://raw.githubusercontent.com/gorjoe/gorjoe/main/img/envelope-solid.svg" />](mailto:joeminecraft1234funs35@gmail.com)
 
 <br />
 
@@ -51,6 +51,3 @@
 ---
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gorjoe)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gorjoe&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=gorjoe&langs_count=8&theme=dark)
-<br>
-[youtube]: https://bit.ly/gorjoe
-[email]: mailto:joeminecraft1234funs35@gmail.com
